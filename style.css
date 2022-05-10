@@ -57,3 +57,28 @@ th{
 caption{
     background-color: darkgrey;
 }
+
+#menu{ }
+
+#menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;   
+}
+
+#menu ul li{
+    display: inline-block;
+}
+
+#menu ul li a{
+    color:chocolate;
+    display: block;
+    padding: 10px 157px;
+    text-decoration: none;
+    text-size-adjust:inherit;
+}
+
+#menu ul li a:hover{
+    background-color: darkgoldenrod;
+}
