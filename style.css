@@ -1,0 +1,59 @@
+header{
+    background-color: cadetblue;
+    border-color: cadetblue;
+}
+body{
+    background-color: whitesmoke;
+}
+
+div.centrado{
+    text-align: center;
+    border-color: black;
+}
+
+img{
+    border-color: black;
+    margin-top: 6px;
+}
+
+figcaption{
+    background-color: antiquewhite;
+    position: relative;
+}
+
+.alineacionDerecha{
+    text-align: right;
+}
+.alineacionIzquierda{
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+    background-color: darkgrey;
+    border-color: darkgray;
+}
+
+.floatIzquierda{
+    float: left;
+}
+
+ul{
+    background-color: cadetblue;
+}
+
+i{
+    background-color: darkcyan;
+}
+
+span{
+    color: green;
+}
+
+th{
+    background: cadetblue;
+}
+
+caption{
+    background-color: darkgrey;
+}
